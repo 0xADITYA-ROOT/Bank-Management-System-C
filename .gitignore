@@ -6,6 +6,8 @@
 
 # Runtime data
 accounts.dat
+__pycache__/
+jarvis_notes.txt
 
 # Editor and OS files
 .vscode/

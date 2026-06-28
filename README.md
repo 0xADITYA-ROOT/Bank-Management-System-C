@@ -51,6 +51,8 @@ Enter your choice:
 ```text
 Bank-Management-System-C/
 ├── bank_management_system.c
+├── jarvis.py
+├── Run_Jarvis.bat
 ├── README.md
 └── .gitignore
 ```
@@ -98,6 +100,41 @@ gcc bank_management_system.c -o bank_management_system
 | 7 | Delete account |
 | 8 | List all accounts |
 | 0 | Exit |
+
+## Jarvis Voice Assistant
+
+This repository also includes a Windows-friendly Python assistant named **Jarvis**.
+It can run with typed commands immediately, and it uses voice input automatically
+when the optional microphone dependency is installed.
+
+### Run Jarvis
+
+```powershell
+python jarvis.py
+```
+
+Or double-click:
+
+```text
+Run_Jarvis.bat
+```
+
+### Jarvis Commands
+
+- Open Chrome
+- Play music
+- Tell weather
+- Open VS Code
+- Open YouTube
+- Open Notepad
+- Open Calculator
+- Open Desktop, Documents, Downloads, Music, or Pictures
+- Search Google
+- Search Wikipedia
+- Tell time and date
+- Take notes and read notes
+- Tell a joke
+- Shutdown PC with confirmation
 
 ## Learning Outcomes
 
