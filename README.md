@@ -51,9 +51,6 @@ Enter your choice:
 ```text
 Bank-Management-System-C/
 ├── bank_management_system.c
-├── jarvis.py
-├── Run_Jarvis.bat
-├── JARVIS_README.md
 ├── README.md
 └── .gitignore
 ```
@@ -101,11 +98,6 @@ gcc bank_management_system.c -o bank_management_system
 | 7 | Delete account |
 | 8 | List all accounts |
 | 0 | Exit |
-
-## Extra Project
-
-This repository also includes a Python **Jarvis Voice Assistant**.
-See [JARVIS_README.md](JARVIS_README.md) for setup, commands, and usage.
 
 ## Learning Outcomes
 
